@@ -22,7 +22,7 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Ba
 
 <br>
 
-
+<br>
 
 ### 📊 Estatísticas
 
@@ -31,7 +31,7 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Ba
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbitar-mverickx&layout=compact&langs_count=7&theme=chartreuse-dark&locale=pt-br" loading="lazy"/>
 </div>
 
-
+<br>
 <br>
 
 ## 🌐 Redes Sociais:
