@@ -22,7 +22,7 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Ba
 
 <br>
 
-<br>
+
 
 ### 📊 Estatísticas
 
